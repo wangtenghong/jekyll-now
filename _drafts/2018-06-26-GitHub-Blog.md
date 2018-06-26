@@ -8,9 +8,8 @@ published: false
 因為發現了Jekyll好像是GitHub預設有支援的專案
 所以Wordpress,Octopress,Hexo這一票就不考慮了
 
-
 預定想寫的新文章標題為
-> 如何把VirtualBox內的Ubuntu加大空間
-> 如何安裝SikuliX
+- 如何把VirtualBox內的Ubuntu加大空間
+- 如何安裝SikuliX
 
 這邊順便先來測試貼圖跟數學公式
