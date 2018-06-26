@@ -17,5 +17,7 @@ published: false
 
 
 微分公式(使用MathJax)
-\frac{a}{b}
+
+
+$$ \frac{a}{b} $$
 
