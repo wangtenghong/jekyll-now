@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+
 ---
 ## 使用GitHub做一個Blog
 因為最近玩了一些Side Project想找個地方記錄下來
