@@ -15,3 +15,7 @@ published: false
 這邊順便先來測試貼圖跟數學公式
 ![Deep Learning O'Reilly]({{site.baseurl}}/_drafts/IMAG0881.jpg)
 
+
+微分公式(使用MathJax)
+\frac{a}{b}
+
